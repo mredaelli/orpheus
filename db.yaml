@@ -1,0 +1,363 @@
+database:
+   references:
+      - opera:
+         title: Euridice
+         year: 1600
+         author: Peri
+
+      - opera:
+         title: Euridice
+         year: 1602
+         author: Caccini
+
+      - opera:
+         title: L'Orfeo
+         year: 1607
+         author: Monteverdi
+
+      - opera:
+         title: La morte d'Orfeo
+         year: 1619
+         author: Landi
+
+      - opera:
+         title: Orfeo
+         year: 1647
+         author: Rossi
+
+      - opera:
+         title: Orfeo
+         year: 1672
+         author: Sartorio
+
+      - opera:
+         title: La descente d'Orphée aux enfers
+         year: 1686
+         author: Carpentier
+
+      - opera:
+         title: Orpheus
+         year: 1726
+         author: Telemann
+
+      - opera:
+         title: Orfeo ed Euridice
+         year: 1762
+         author: Gluck
+
+      - opera:
+         title: L'anima del filosofo
+         year: 1791
+         author: Haydn
+
+      - opera:
+         title: Orpheus in the Underworld
+         year: 1858
+         author: Offenbach
+
+      - opera:
+         title: Orpheus und Eurydike
+         year: 1921
+         author: Krenek
+
+      - opera:
+         title: L'Orfeide
+         year: 1925
+         author: Malipiero
+
+      - opera:
+         title: Orpheus and Eurydice
+         year: 1975
+         author: Zhurbin
+
+      - opera:
+         title: The Mask of Orpheus
+         year: 1986
+         author: Birtwistle
+
+      - opera:
+         title: The Second Mrs Kong
+         year: 1994
+         author: Birtwistle
+
+      - opera:
+         title: The Corridor
+         year: 2009
+         author: Birtwistle
+
+      - musical:
+         title: Orpheus & Eurydice
+         year: 2011
+         author: Andrew J. Hanley; Melissa Nally
+
+      - play:
+         title: Eurydice/Point of Departure (
+         year: 1941
+         author: Anouilh
+
+      - play:
+         title: Orfeu da Conceição
+         year: 1956
+         author: de Moraes
+
+      - play:
+         title: Orpheus Descending
+         year: 1957
+         author: Williams
+
+      - play:
+         title: Eurydice
+         year: 2003
+         author: Ruhl
+
+      - movie:
+         title: The Blood of a Poet
+         year: 1930
+         director: Jean Cocteau
+
+      - movie:
+         title: Orphée
+         year: 1950
+         director: Jean Cocteau
+
+      - movie:
+         title: Testament of Orpheus
+         year: 1960
+         director: Jean Cocteau
+
+      - movie:
+         title: Black Orpheus
+         year: 1959
+         director:  Marcel Camus
+
+      - movie:
+         title: Evrydiki BA 2O37
+         year: 1975
+         director:   Nikos Nikolaidis
+
+      - movie:
+         title: Parking
+         year: 1985
+         director:  Jacques Demy
+
+      - movie:
+         title: Orfeu
+         year: 1999
+         director: Carlos Diegues
+
+      - poem:
+         title: Sir Orfeo
+         language: Middle English
+
+      - poem:
+         title: The Tale of Orpheus and Erudices his Quene
+         author: Robert Henryson
+
+      - painting:
+         title: Orpheus and Eurydice
+         author: Jacopo del Sellaio
+         year: 1480
+
+      - painting:
+         title: Landscape with Orpheus and Eurydice
+         author:  Nicolas Poussin
+         year: 1650
+
+      - book:
+         title: Sonnets to Orpheus
+         author: Rainer Maria Rilke
+         year: 1922
+
+      - poem:
+         title: Eurydice
+         in: worldcat-43245905
+
+      - novel:
+         author: Samuel R. Delany
+         title: The Einstein Intersection
+         year: 1967
+         isbn: 0-824014073
+         id: worldcat-48138832
+
+      - novel:
+         author: Thomas Pynchon
+         title: Gravity's Rainbow
+         year: 1973
+         isbn: 0-0670348325
+         id: worldcat-592261
+
+      - novel:
+         author: Russell Hoban
+         title: The Medusa Frequency
+         year: 1987
+         isbn: 0-7475-5909-0
+         id: worldcat-592261
+
+      - novel:
+         author: Salman Rushdie
+         title: The Ground Beneath Her Feet
+         year: 1999
+         isbn: 0-224-04419-2
+         id: worldcat-39796091
+
+      - novel:
+         author: Jeff VanderMeer
+         title: Veniss Underground
+         year: 2003
+         isbn: 1-892389-61-4
+         id: worldcat-51980666
+
+      - song:
+         title: Orfeas
+         author: Judge Smith
+         year: 2011
+
+      - ballet:
+         author: Igor Stravinsky
+         title: Orpheus
+         year: 1948
+         id: discogs-r6520933
+
+      - ballet:
+         author: George Balanchine
+         title: Chaconne
+         year: 1976
+
+      - music:
+         author: Franz Liszt
+         year: 1854
+
+      - something:
+         author: Pina Bausch
+         title: Orpheus und Euridike
+
+      - album:
+         author: Nick Cave and the Bad Seeds
+         title: Abattoir Blues / The Lyre of Orpheus
+         id: discogs-m23104
+         id: worldcat-56802378
+         year: 2004
+
+      - album:
+         author: Steve Hackett
+         title: Metamorpheus
+         id: discogs-m376504
+         id: worldcat-85763176
+         year: 2005
+
+      - something:
+         title:  Orpheus the Lowdown
+         author: Peter Blegvad and Andy Partridge
+
+      - album:
+         author: Anaïs Mitchell
+         title: Hadestown
+         year: 2010
+         id: discogs-m351126
+         id: worldcat-505540966
+
+      - song:
+          title: Orpheo Looks Back
+          in: discogs-r3466379
+
+      - song:
+          title: Orpheus
+          in: discogs-m33490
+
+      - novel:
+         title: Goat Song
+         author: Poul Anderson
+         in: worldcat-12539668
+
+
+      - album:
+        title: Reflektor
+        author: Arcade Fire
+        year: 2013
+        id: discogs-m611685
+        id: worldcat-858904814
+
+      - statue:
+        author: August Rodin
+        title: Orpheus and Eurydice
+        year: 1-892389
+
+      - vase:
+        - year: -44x
+        - url: http://www.metmuseum.org/toah/works-of-art/24.97.30
+        - description: Orpheus playing lyre for Thracian men
+
+      - engraving:
+        - year: 15xx
+        - author: Peregrino da Cesena
+        - title: Orpheus Charming the Beasts with His Music
+        - url: http://www.metmuseum.org/toah/works-of-art/28.97.99
+
+      - engraving:
+        - year: 159x
+        - author: Agostino Carracci
+        - title: Orpheus and Eurydice,
+        - url: http://www.metmuseum.org/toah/works-of-art/17.37.170
+
+      - engraving:
+        - year: 1505
+        - author: Marcantonio Raimondi
+        - title: Orpheus and Eurydice
+        - url: http://www.metmuseum.org/toah/works-of-art/56.581.12
+
+      - game:
+        - year: 1988
+        - title: The Battle of Olympus
+        - platform: Nintendo
+
+      - game:
+        - year:
+        - title: Don't look Back
+        - author: Terry Cavanagh
+
+      - essay:
+        - title: The gaze of Orpheus, and other literary essays
+        - author: Maurice Blanchot
+        - id: worldcat-7170538
+        - year: 1981
+
+      - monument:
+        - title: Orpheus Monument
+        - year: -1xx
+        - location: Slovene Square, Ptuj
+
+      - graphicnovel:
+        - title: The Window of Orpheus
+        - originaltitle: Orpheus no Mado
+        - author: Riyoko Ikeda
+        - year: 1975-1981
+
+      - mosaic:
+        - location: Museo archeologico regionale di Palermo
+        - url: https://en.wikipedia.org/wiki/Orpheus#/media/File:DSC00355_-_Orfeo_(epoca_romana)_-_Foto_G._Dall%27Orto.jpg
+
+   external:
+      - book:
+         isbn: 0-330-37222-X
+         title: The World's Wife
+         author: Carol Ann Duffy
+         year: 1999
+         id: worldcat-43245905
+
+      - album:
+         title: Break It Yourself
+         year: 2012
+         author: Andrew Bird
+         id: discogs-r3466379
+
+      - album:
+         title: Reflections
+         year: 1970
+         author: Manos Hadjidakis
+         id: discogs-m33490
+
+      - book:
+         title: Nebula Award Stories Eight
+         editor: Isaac Asimov
+         year: 1973
+         id: worldcat-12539668
